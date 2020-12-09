@@ -39,7 +39,7 @@ LEAP, a framework for animal body part position estimation via deep learning, 20
 
 APT - The Animal Part Tracker, 2018. [[website](http://kristinbranson.github.io/APT/)] [[code](https://github.com/kristinbranson/APT)] #matlab
 
-SLEAP: Social LEAP Estimates Animal Poses, (to be released). [[code](https://github.com/talmo/leap)] #python
+SLEAP: Social LEAP Estimates Animal Poses, 2020. [[paper](https://www.biorxiv.org/content/10.1101/2020.08.31.276246v1)] [[website](https://sleap.ai/)] [[code](https://github.com/murthylab/sleap/)] #python
 
 ## Datasets
 
