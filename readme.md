@@ -29,17 +29,19 @@ ABC Tracker, (to be released). [[website](http://abctracker.org)] #windows #clos
 
 ## Animal Pose Tracking
 
-DeepPoseKit, a software toolkit for fast and robust animal pose estimation using deep learning, 2019. [[paper](https://elifesciences.org/articles/47994)] [[code](https://github.com/jgraving/deepposekit)] #python
-
-DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals, including humans, 2019. [[website](http://www.mousemotorlab.org/deeplabcut)] [[paper](https://www.nature.com/articles/s41593-018-0209-y), [paper](https://www.nature.com/articles/s41596-019-0176-0)] [[code](https://github.com/AlexEMG/DeepLabCut)] #python #3d
-
 DeepFly3D, motion capture (markerless 3D pose estimation) pipeline and helper GUI for tethered Drosophila, 2019. [[paper](https://elifesciences.org/articles/48571)] [[code](https://github.com/NeLy-EPFL/DeepFly3D)] #python
 
 LEAP, a framework for animal body part position estimation via deep learning, 2018. [[paper](https://www.biorxiv.org/content/10.1101/331181v2)] [[code](https://github.com/talmo/leap)] #python
 
 APT - The Animal Part Tracker, 2018. [[website](http://kristinbranson.github.io/APT/)] [[code](https://github.com/kristinbranson/APT)] #matlab
 
+## Multiple Animal Pose Tracking
+
 SLEAP: Social LEAP Estimates Animal Poses, 2020. [[paper](https://www.biorxiv.org/content/10.1101/2020.08.31.276246v1)] [[website](https://sleap.ai/)] [[code](https://github.com/murthylab/sleap/)] #python
+
+DeepPoseKit, a software toolkit for fast and robust animal pose estimation using deep learning, 2019. [[paper](https://elifesciences.org/articles/47994)] [[code](https://github.com/jgraving/deepposekit)] #python
+
+DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals, including humans, 2019. [[website](http://www.mousemotorlab.org/deeplabcut)] [[paper](https://www.nature.com/articles/s41593-018-0209-y), [paper](https://www.nature.com/articles/s41596-019-0176-0)] [[code](https://github.com/AlexEMG/DeepLabCut)] #python #3d
 
 ## Datasets
 
